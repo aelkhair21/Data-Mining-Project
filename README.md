@@ -3,4 +3,5 @@ TIMELINE 2 PIPELINES:
 TIMELINE 3:
 - investigate ocean proximity, redundancies in data, outliers in data, regional logic, market caps
 - PIPELINES;
+- --> TIMELINE3_MarketCaps.knwf
 - --> 
