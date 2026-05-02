@@ -7,4 +7,4 @@ TIMELINE 3:
 - --> TIMELINE3_MarketCaps.knwf
 - --> TIMELINE3_RedundancyandOutliers.knwf
 - --> TIMELINE3_OceanProximity.knwf
-- -->
+- --> TIMELINE3_FaithLogic.knwf
