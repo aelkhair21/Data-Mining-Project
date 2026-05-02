@@ -8,8 +8,16 @@ TIMELINE 3:
 - --> TIMELINE3_RedundancyandOutliers.knwf
 - --> TIMELINE3_OceanProximity.knwf
 - --> TIMELINE3_FaithLogic.knwf
+
 TIMELINE 4:
-TIMELINE4_BiasCheck.knwf
-TIMELINE4_LinearRegression.knwf
-TIMELINE4_PipelineConstruction.knwf
-TIMELINE4_RegressionSubModel.knwf
+- construct pipeline, bias check, target swap sub-model
+- PINEPINES:
+- --> TIMELINE4_BiasCheck.knwf
+- --> TIMELINE4_LinearRegression.knwf
+- --> TIMELINE4_PipelineConstruction.knwf
+- --> TIMELINE4_RegressionSubModel.knwf
+
+TIMELINE 5:
+- Address overprediction, work on skew mititgation, error reduction, and complete classification task
+- PIPELINES:
+- 
