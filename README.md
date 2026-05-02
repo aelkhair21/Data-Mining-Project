@@ -20,4 +20,12 @@ TIMELINE 4:
 TIMELINE 5:
 - Address overprediction, work on skew mititgation, error reduction, and complete classification task
 - PIPELINES:
-- 
+- --> TIMELINE5_Classification.knwf
+- --> TIMELINE5_ErrorReductionRandomForest.knwf
+- --> TIMELINE5_Overprediction.knwf
+- --> TIMELINE5_Skew.knwf
+
+TIMELINE 6:
+- Final Workflow presentation
+- PIPELINES:
+- --> 
